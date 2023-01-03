@@ -22,6 +22,7 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 5.	Bread board
 6.	USB cable
 7.	Laptop
+
 NODE MCU: The NodeMCU (Node MicroController Unit) is an open source software and hardware development environment that is built around a very inexpensive System-on-a-Chip (SoC) called the ESP8266.
  
 PULSE SENSOR: It is an Open Source heart rate monitor which considered as a PPG device used to monitor the non-invasive heart rate. It measures the real- time heart beats and calculates BPM with the aid of algorithms implemented by Arduino. The normal operating voltage is +5V or +3.3V and current consumption of 4mA. The sensor has two sides, one side consists of an LED with an ambient light sensor and the other side contains circuitry which amplifies the signals and filters the noise.
