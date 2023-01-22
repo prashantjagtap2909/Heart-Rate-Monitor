@@ -24,10 +24,14 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 7.	Laptop
 
     - NODE MCU: The NodeMCU (Node MicroController Unit) is an open source software and hardware development environment that is built around a very inexpensive System-on-a-Chip (SoC) called the ESP8266.
+![image](https://user-images.githubusercontent.com/93985255/213919929-a263a044-adee-4e61-986d-c13349505b21.png)
+
+
 
  
     - PULSE SENSOR: It is an Open Source heart rate monitor which considered as a PPG device used to monitor the non-invasive heart rate. It measures the real- time heart beats and calculates BPM with the aid of algorithms implemented by Arduino. The normal operating voltage is +5V or +3.3V and current consumption of 4mA. The sensor has two sides, one side consists of an LED with an ambient light sensor and the other side contains circuitry which amplifies the signals and filters the noise.
- 
+ ![image](https://user-images.githubusercontent.com/93985255/213919943-54279ec4-05db-4bd0-b2d6-a47816d96b33.png)
+
  
     - HC-05 BLUETOOTH: HC-05 is a serial port Protocol(SPP) designed for wireless serial connection setup. It was chosen for its ability to simplify the circuit design Send measured data to android application and due to its compatibility with the. In addition, it was chosen over HC-06 module because it has the ability to operate as both as master and slave modules rather than just a slave in the case of HC-06. TheHC-05 has six Pins, four of them are programmable input/output lines. While the three others, one is GND and the other is for VCC.
 
@@ -53,6 +57,14 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
     - LAPTOP : 	For connecting heart rate monitor and displaying result.
 
 
+### Circuit diagram:-
+
+![image](https://user-images.githubusercontent.com/93985255/213920029-26a0332e-32b8-44ac-a623-e3778047634b.png)
+
+
+ 
+
+
 ### Advantages:- 
 
 - A convenient all-in one solution. 
@@ -67,4 +79,21 @@ the muscles and tendons near your wrist.
 - Limited ability to accurately measure heart rate through dark or tattoed skin.
 
 - More likely to be worn incorrectly, either not tight enough or too tight.
+
+### Heart rate chart:-
+
+
+
+![image](https://user-images.githubusercontent.com/93985255/213920046-e3244afb-1191-40ee-ab29-156910c36001.png)
+
+
+![image](https://user-images.githubusercontent.com/93985255/213920090-413b1f3d-135c-4aa8-a1c5-b829558fcdff.png)
+![image](https://user-images.githubusercontent.com/93985255/213920080-a2032390-bb7c-4caa-9922-4e69cf95f9e1.png)
+
+
+ ### CONCLUSION 
+ 
+An IoT-based human heartbeat rate monitoring and control system is developed. This system uses the capability of a heart pulse sensor for data acquisition. A humans heartbeat is captured as data signals and processed by the microcontroller. The processed data are transmitted to the IoT platform for further analytics and visualization. Experimental results obtained were found to be accurate as the system was able to sense and read the heartbeat rate of its user and transmits the sensed data via Bluetooth. From the results obtained, it was found that the healt condition is of fit if >50 and <60, average if >60 and <70, not fit if >80. Furthermore, this research paper presents an approach that is flexible, reliable, and confidential for a heartbeat rate monitoring and control system using sensor network and
+IoT technology. The implemented device can be deployed to the medical field to assist the medical practitioners to efficiently and reliably do their work without difficulties.
+
 
