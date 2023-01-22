@@ -30,7 +30,7 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 
  
     - PULSE SENSOR: It is an Open Source heart rate monitor which considered as a PPG device used to monitor the non-invasive heart rate. It measures the real- time heart beats and calculates BPM with the aid of algorithms implemented by Arduino. The normal operating voltage is +5V or +3.3V and current consumption of 4mA. The sensor has two sides, one side consists of an LED with an ambient light sensor and the other side contains circuitry which amplifies the signals and filters the noise.
- ![image](https://user-images.githubusercontent.com/93985255/213919943-54279ec4-05db-4bd0-b2d6-a47816d96b33.png)
+	 ![image](https://user-images.githubusercontent.com/93985255/213919943-54279ec4-05db-4bd0-b2d6-a47816d96b33.png)
 
  
     - HC-05 BLUETOOTH: HC-05 is a serial port Protocol(SPP) designed for wireless serial connection setup. It was chosen for its ability to simplify the circuit design Send measured data to android application and due to its compatibility with the. In addition, it was chosen over HC-06 module because it has the ability to operate as both as master and slave modules rather than just a slave in the case of HC-06. TheHC-05 has six Pins, four of them are programmable input/output lines. While the three others, one is GND and the other is for VCC.
