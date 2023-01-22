@@ -87,8 +87,10 @@ the muscles and tendons near your wrist.
 ![image](https://user-images.githubusercontent.com/93985255/213920046-e3244afb-1191-40ee-ab29-156910c36001.png)
 
 
+</br>
 
 ### Working model photo
+
 ![image](https://user-images.githubusercontent.com/93985255/213920090-413b1f3d-135c-4aa8-a1c5-b829558fcdff.png)
 
 ![image](https://user-images.githubusercontent.com/93985255/213920080-a2032390-bb7c-4caa-9922-4e69cf95f9e1.png)
