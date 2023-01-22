@@ -43,6 +43,7 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 
 
 
+
 	
 
 
@@ -50,3 +51,15 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 
 
     - LAPTOP : 	For connecting heart rate monitor and displaying result.
+
+
+### Advantages:- 
+
+ A convenient all-in one solution. 
+ You can quickly check your heart rate or start a training session without having to 
+put on a separate chest strap. 
+### Disadvantages:- 
+ Not necessarily accurate in sports where you move your hands vigorously or flex 
+the muscles and tendons near your wrist. 
+ Limited ability to accurately measure heart rate through dark or tattoed skin. 
+ More likely to be worn incorrectly, either not tight enough or too tight.
