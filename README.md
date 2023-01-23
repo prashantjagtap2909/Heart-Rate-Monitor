@@ -12,7 +12,7 @@ This paper proposes a heart rate monitoring detection system using IoT. Nowadays
 
 
 
-###  Requirements  
+## Requirements  
  
  
 1.	 NodeMCU
